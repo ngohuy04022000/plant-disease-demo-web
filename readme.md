@@ -10,7 +10,8 @@ PlantDiseases/
 - Cài đặt các thư viện cần hoặc cài vào môi trường ảo python
 pip install -r requirements.txt
 - chạy api:
-python backend.py
+python -m uvicorn backend:app --reload --port 8000
+
 # Chạy front end:
 - Truy cập vào thư mục chứa source code web:
 cd plant-disease-ui
