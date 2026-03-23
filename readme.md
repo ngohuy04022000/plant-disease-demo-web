@@ -2,8 +2,11 @@
 - link dataset: https://www.kaggle.com/datasets/sohamgurav18/plantdiseasesagronexis:
 giải nén và để trong thư chứa file backend.py
 
-# plant-disease-demo-web/PlantDiseases
-# plant-disease-demo-web/backend.py
+## plant-disease-demo-web/PlantDiseases
+## plant-disease-demo-web/backend.py
+
+# giải nén file model_vit.rar
+## plant-disease-demo-web/models_vit
 
 # Chạy back end:
 - Cài đặt các thư viện cần hoặc cài vào môi trường ảo python
